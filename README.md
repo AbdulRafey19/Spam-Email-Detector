@@ -1,5 +1,6 @@
 # Spam Email Detector  
 Semester Project for our AI and DSS class (NUST-PNEC , 2024)
+
 This project is a machine learning-based spam email classifier.  
 It uses a dataset of emails, processes the text, and trains a model to classify whether an email is spam or not.  
 
